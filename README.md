@@ -1,2 +1,3 @@
 # aahaninspace.github.io
-Information about Aahan in Space and its open-source work.
+Website for Aahan in Space volunteers
+# Contributions will be accepted in some time more details coming soon...
