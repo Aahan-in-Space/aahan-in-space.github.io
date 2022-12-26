@@ -9,8 +9,9 @@ Please contribute to specifically resolve GitHub Issues
 GitHub Issues for bugs should start with Issue - ...
 GitHub Issues for features should start with Feature - ...
 Please note in most cases it is preferred for bugs to take priority over features
-Anyone can create a GitHub Issue
-Before contributing please read the rest of this README.md and the LICENSE.md
+Anyone can create a GitHub Issue.
+Before contributing please read the rest of this README.md and the LICENSE.md.
+Please note we have a GitHub Pages Static HTML workflow enabled, so please make sure your code complies with that.
 For this website we use (HyperText Markup Language)HTML.
 You can use whatver IDE you wish.
 Personally, I am using Microsoft Visual Studio Community 2022.
