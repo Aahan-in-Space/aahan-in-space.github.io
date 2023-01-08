@@ -1,7 +1,7 @@
 # aahaninspace.github.io
 Website for Aahan in Space volunteers
 # How it works
-This website can be accessed here: https://aahaninspacevolunteer.ml
+This website can be accessed here: https://volunteer.aahaninspace.tk
 It is a free domain brought from Freenom.
 It is hosted by CloudFlare, which is pointed to GitHub Pages.
 # Contributing
