@@ -25,7 +25,7 @@ Instead of
 ```
 <P>HTML5 is the best HTML version</P>
 ```
-It is also preferred if you could start your PHP document (if it contains HTML) with...
+It is also preferred if you could start your HTML code with ...
 ```
 <!DOCTYPE> html
 ```
